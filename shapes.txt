@@ -2,4 +2,8 @@ circle
 oval
 rectangle
 square
+<<<<<<< HEAD
 New shape
+=======
+edit new shape
+>>>>>>> master
