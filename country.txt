@@ -1,3 +1,7 @@
 China
 USA
 Russia
+Singapore
+India
+Japan
+Korea
